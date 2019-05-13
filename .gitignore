@@ -1,0 +1,5 @@
+.elasticbeanstalk
+.idea
+build-image.sh
+deploy-to-aws.sh
+laravel
